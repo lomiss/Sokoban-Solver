@@ -1,2 +1,2 @@
 # Sokoban-Solver
-A Sokoban Solver using BFS,DFS and A* algorithm created by pygame
+The Sokoban Solver using BFS,DFS and A* algorithm created by pygame
